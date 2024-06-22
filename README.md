@@ -65,7 +65,11 @@ setidir.</p>
 <h2> Tartışma </h2>
 
 <h2> Kaynaklar </h2>
-
-
+<p>
+<ul>
+<li> <a href="https://keras.io/"> Keras Documentation</a></li>
+<li> <a href="https://github.com/zalandoresearch/fashion-mnist">Fashion MNIST Dataset</a></li>
+</ul>
+</p>
 
 
