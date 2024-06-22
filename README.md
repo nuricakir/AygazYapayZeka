@@ -125,7 +125,9 @@ setidir.</p>
   <ul>
    <li> <a href="https://keras.io/"> Keras Documentation</a></li>
    <li> <a href="https://github.com/zalandoresearch/fashion-mnist">Fashion MNIST Dataset</a></li>
-    <li> <a href="https://colab.google">Google Colab</a></li>
+   <li> <a href="https://colab.google">Google Colab</a></li>
+  <li> <a href="https://medium.com/@gulcanogundur/roc-ve-auc-1fefcfc71a14"> ROC ve AUC Medium</a></li>
+    
   </ul>
 </p>
 
