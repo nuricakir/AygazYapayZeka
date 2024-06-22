@@ -2,7 +2,9 @@
 
 <h2> Aygaz Yapay Zekaya Giriş Bootcamp Final Projesi </h2>
 <p> Proje PDF:  </p>
-[Aygaz Bootcamp.pdf](https://github.com/user-attachments/files/15937192/Aygaz.Bootcamp.pdf)
+
+
+<iframe src="[Aygaz Bootcamp.pdf](https://github.com/user-attachments/files/15937201/Aygaz.Bootcamp.pdf)" width="100%" height="100%"></iframe>
 
 <h2> Proje </h2>
 
@@ -57,9 +59,12 @@ setidir.</p>
 ![Ekran görüntüsü 2024-06-22 170920](https://github.com/nuricakir/AygazYapayZeka/assets/112883476/5275ae56-6a3c-4b67-b51d-bfd179d2179d)
 
 <h2> Deney Sonuçları </h2>
+
 <h3> Modelin Test Verisindeki Performansı:</h3>
+<p>![Ekran görüntüsü 2024-06-22 134939](https://github.com/nuricakir/AygazYapayZeka/assets/112883476/55e64717-ec24-4ec5-ad10-a9e80fc5081a) </p>
 
 <h3> Karmaşıklık Matrisi </h3>
+<p>![Ekran görüntüsü 2024-06-22 181605](https://github.com/nuricakir/AygazYapayZeka/assets/112883476/fdf67d1b-4184-4563-a0ef-d651915d85c2) </p>
 
 <h3> ROC Eğrisi ve AUC Skorları </h3>
 
