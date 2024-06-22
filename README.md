@@ -1,7 +1,8 @@
 <h1> Aygaz Yapay Zekaya Giriş Bootcamp</h1>
 
 <h2> Aygaz Yapay Zekaya Giriş Bootcamp Final Projesi </h2>
-<p> Proje PDF </p>
+<p> Proje PDF:  </p>
+[Aygaz Bootcamp.pdf](https://github.com/user-attachments/files/15937192/Aygaz.Bootcamp.pdf)
 
 <h2> Proje </h2>
 
