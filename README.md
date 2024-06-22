@@ -116,7 +116,7 @@ setidir.</p>
   <ul>
    <li> <b> Başarılar:</b> Modelin genel doğruluğu %91 olarak oldukça yüksektir.</li>
    <li> <b> Güçlü Yönler: </b> Model, birçok sınıfta yüksek doğruluk oranlarına sahiptir. </li>
-   <li> <b> Zayıf Yönler: </b> Bazı sınıflarda (örneğin Class 6) daha düşük doğruluk oranları gözlemlenmiştir.</li>
+   <li> <b> Zayıf Yönler: </b> Bazı sınıflarda ( Örneğin Sınıf 6) daha düşük doğruluk oranları gözlemlenmiştir.</li>
    <li> <b> Geliştirme Alanları:</b>  Modelin bazı sınıflarda daha iyi performans göstermesi için hiperparametre optimizasyonu yapılabilir.</li>
   </ul>
  </p>
