@@ -3,9 +3,6 @@
 <h2> Aygaz Yapay Zekaya Giriş Bootcamp Final Projesi </h2>
 <p> Proje PDF:  </p>
 
-
-<iframe src="[Aygaz Bootcamp.pdf](https://github.com/user-attachments/files/15937201/Aygaz.Bootcamp.pdf)" width="100%" height="100%"></iframe>
-
 <h2> Proje </h2>
 
 <p> Bu proje, Aygaz ve Global AI Hub işbirliğinde 06.06.2024 – 22.06.2024 tarihleri arasında düzenlenen "Aygaz Yapay Zekaya Giriş Bootcamp" kapsamında gerçekleştirilen bir final proje çalışmasıdır.
