@@ -28,7 +28,7 @@ setidir.</p>
  <p> 
   <ul>
    <li><b>Görüntü Boyutu:</b> 28x28 gri tonlamalı görüntülerdir.</li>
-   <li><b>Sınıflar:</b> T-shirt, Pantolon, Kazak, Elbise, Ceket, Sandalet, Gömlek, Spor Ayakkabı, Çanta, Bot. </li>
+   <li><b>Sınıflar:</b> Tişört, Pantolon, Kazak, Elbise, Ceket, Sandalet, Gömlek, Spor Ayakkabı, Çanta, Bot. </li>
   </ul>
  </p>
 
