@@ -69,6 +69,47 @@ setidir.</p>
 
   <h3> ROC Eğrisi ve AUC Skorları </h3>
 
+ <h4> <b> Sınıf 0 : </b> </h4>
+    
+  ![Ekran görüntüsü 2024-06-22 192659](https://github.com/nuricakir/AygazYapayZeka/assets/112883476/78af19a5-762e-4c96-a975-a3d4fdde1f06) 
+  
+  <h4> <b> Sınıf 1 : </b> </h4>
+    
+  ![Ekran görüntüsü 2024-06-22 192944](https://github.com/nuricakir/AygazYapayZeka/assets/112883476/bdae513d-411a-481f-8820-49820215e0dc)
+
+  <h4> <b> Sınıf 2 : </b> </h4>
+
+  ![Ekran görüntüsü 2024-06-22 193811](https://github.com/nuricakir/AygazYapayZeka/assets/112883476/fa414c29-f3a3-4cb5-b411-279655cf1a65)
+
+  <h4> <b> Sınıf 3 : </b> </h4>
+
+  ![Ekran görüntüsü 2024-06-22 193937](https://github.com/nuricakir/AygazYapayZeka/assets/112883476/4509e7c8-eaf4-4a92-a2ac-80635818c14b)
+
+  <h4> <b> Sınıf 4 : </b> </h4>
+
+  ![Ekran görüntüsü 2024-06-22 194008](https://github.com/nuricakir/AygazYapayZeka/assets/112883476/26e49d73-7935-4239-b97b-31cb19b44a45)
+
+  <h4> <b> Sınıf 5 : </b> </h4>
+
+  ![Ekran görüntüsü 2024-06-22 194649](https://github.com/nuricakir/AygazYapayZeka/assets/112883476/2a0a4261-4c0c-47e4-ba16-53815e1d8a89)
+
+
+  <h4> <b> Sınıf 6 : </b> </h4>
+  
+  ![Ekran görüntüsü 2024-06-22 194627](https://github.com/nuricakir/AygazYapayZeka/assets/112883476/d04473f1-633c-4876-a04a-c4e24b471ae4)
+
+  <h4> <b> Sınıf 7 : </b> </h4>
+
+  ![Ekran görüntüsü 2024-06-22 194053](https://github.com/nuricakir/AygazYapayZeka/assets/112883476/45ebc471-5a8c-4918-9694-ca3fb008ad2c)
+
+  <h4> <b> Sınıf 8 : </b> </h4>
+
+  ![Ekran görüntüsü 2024-06-22 194350](https://github.com/nuricakir/AygazYapayZeka/assets/112883476/244ac580-4e6b-4f4c-98b4-6540056a2e38)
+
+
+  <h4> <b> Sınıf 9 : </b> </h4>
+
+  ![Ekran görüntüsü 2024-06-22 194406](https://github.com/nuricakir/AygazYapayZeka/assets/112883476/9fb48fae-b106-4745-a25e-ac0bc2602383)
 
 <h2> Tartışma </h2>
  <p>
@@ -84,6 +125,7 @@ setidir.</p>
   <ul>
    <li> <a href="https://keras.io/"> Keras Documentation</a></li>
    <li> <a href="https://github.com/zalandoresearch/fashion-mnist">Fashion MNIST Dataset</a></li>
+    <li> <a href="https://colab.google">Google Colab</a></li>
   </ul>
 </p>
 
