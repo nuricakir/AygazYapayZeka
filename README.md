@@ -1,4 +1,7 @@
 <h1> Aygaz Yapay Zekaya Giriş Bootcamp</h1>
+  <p> Proje PDF: <a href="Aygaz.Bootcamp.pdf" download>PDF Örneği</a></p>
+  <img src="AygazBootcamp.jpg"></a>
+
 
  <h2> Aygaz Yapay Zekaya Giriş Bootcamp Final Projesi </h2>
   <p> Proje PDF:  </p>
