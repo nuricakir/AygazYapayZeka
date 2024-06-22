@@ -2,7 +2,7 @@
   <h2> Aygaz Yapay Zekaya Giriş Bootcamp Final Projesi </h2>
   <p> Proje PDF: <a href="Aygaz.Bootcamp.pdf" download>Aygaz Yapay Zeka Bootcamp PDF </a></p>
   <p> Google Colab Link: <a href="https://colab.research.google.com/drive/1XD47zCzj9BrPj6p8_En0dBOa50H9bEGV?usp=sharing"> Aygaz Yapay Zeka Bootcamp Colab </a></p>
-  <img src="AygazBootcamp.jpg" width="700" height="400"></a>
+  <img src="Aygaz Yapay Zeka Bootcamp.jpg" width="700" height="400"></a>
 
  <h2> Proje </h2>
 
