@@ -38,13 +38,13 @@ setidir.</p>
 <h2> Model Mimarisi </h2>
 <p>
 <ul>
-<li> Katman 1: 32 filtreli, 3x3 boyutunda Conv2D, ReLU aktivasyonu  </li>
-<li> Katman 2: 2x2 MaxPooling2D  </li>
-<li> Katman 3: 64 filtreli, 3x3 boyutunda Conv2D, ReLU aktivasyonu  </li>
-<li> Katman 4: 2x2 MaxPooling2D  </li>
-<li> Katman 5: Flatten  </li>
-<li> Katman 6: 128 nöronlu Dense, ReLU aktivasyonu  </li>
-<li> Katman 7: 10 nöronlu Dense, Softmax aktivasyonu  </li>
+<li> <b> Katman 1: </b> 32 filtreli, 3x3 boyutunda Conv2D, ReLU aktivasyonu  </li>
+<li> <b> Katman 2: </b> 2x2 MaxPooling2D  </li>
+<li> <b> Katman 3: </b>  64 filtreli, 3x3 boyutunda Conv2D, ReLU aktivasyonu  </li>
+<li> <b> Katman 4: </b> 2x2 MaxPooling2D  </li>
+<li> <b> Katman 5: </b> Flatten  </li>
+<li> <b> Katman 6: </b> 128 nöronlu Dense, ReLU aktivasyonu  </li>
+<li> <b> Katman 7: </b> 10 nöronlu Dense, Softmax aktivasyonu  </li>
 </ul>
 </p>
 
